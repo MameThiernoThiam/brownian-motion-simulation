@@ -7,7 +7,7 @@ Simulation de trajectoires de mouvement brownien 1D, base des modèles stochasti
 
 ## 📈 Exemple de trajectoires
 
-<img src="figures/brownian_paths.png" alt="Trajectoires mouvement brownien" width="500"/>
+<img src="figures/figures/brownian_paths.png" alt="Trajectoires mouvement brownien" width="500"/>
 
 ---
 
